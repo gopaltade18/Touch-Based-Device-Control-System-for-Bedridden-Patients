@@ -4,7 +4,7 @@
 
 The **Touch-Based Device Control System for Bedridden Patients** is an assistive embedded system developed using the **LPC2148 ARM7 Microcontroller**. The system enables bedridden or physically challenged patients to control household appliances such as a **fan, light, and emergency buzzer** using a **resistive touch screen**.
 
-To prevent unauthorized access, the system requires password authentication through a **4×4 matrix keypad**. The password is securely stored in an **AT25LC512 SPI EEPROM**, ensuring that it remains محفوظ even after power is turned OFF.
+To prevent unauthorized access, the system requires password authentication through a **4×4 matrix keypad**. The password is securely stored in an **AT25LC512 SPI EEPROM**, ensuring that it remains  even after power is turned OFF.
 
 ---
 
